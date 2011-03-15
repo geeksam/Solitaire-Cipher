@@ -1,0 +1,5 @@
+Had my attention drawn to this particular Ruby Quiz item, decided to see how far I could get on it.
+
+I may return to this someday when bored.
+
+Note that this contains an .rvmrc file; if you're not running RVM, bear in mind that this may not work on versions of Ruby other than 1.9.  (I decided to play with the Minitest library for this, because apparently one can never know enough testing libraries.)
